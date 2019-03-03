@@ -1,0 +1,50 @@
+Office rental (apartment):
+Address:  Abay street, 46
+Cost: 45 000 tg/months
+Area: 20 meter square
+Salaries for 5 divisions with expenses in collaboration with Kaspi bank:
+Kasp GOLD cards for each employee: 2 000tg per year starts from 2nd year.
+1. Customer work team (Client service):
+Head: Assel
+Salary:      
+head: starts from 8 0000 tg 
+1 operator: 60 000 tg
+Expenses(example):
+• Pension accumulation: 10% of minimum salary
+10 000 tg from head;
+6000 tg from each operator;
+• Medical insurance: 3.5% of salary
+3500 tg from head;
+2445 tg from each operator;
+• Social contributions: 1% of salary
+?1000 tg; 
+? 600 tg;
+• Income taxes is 10% from income
+ 
+2. PR/SMM team(marketing):
+Head: Aruzhan
+Head: 80 000tg:
+Marketer:  70 000tg;
+ 
+3. Accounting team:
+Head: Madina
+?Head: 90 000tg;
+4. Design team:
+Head: Balnur
+Head: 80 000tg
+5. Tech team (programmers):
+Head: Alibek – algorithm programmer
+Head: from 100 000tg; 
+2 IT specialists form “CodeBusters” for the first 2 months :
+DB admin(back enddeveloper): 90 0000tg:
+Mobile App developer(front end developer): 80 000tg;
+System designer: 70 000 tg;
+2 algorithm programmers: 80 000tg;
+ 
+ 
+Technical goods:
+• 6 Laptops: Lenovo IdeaPad 500Z  for 170 000tg
+170 000*6=1 200 000tg
+• 2 cell phones: MI Redmi for 50 000tg
+50 000*2=100 000tg
+• Expenses for server, internet and tariff plans: approximately 15000 tg
